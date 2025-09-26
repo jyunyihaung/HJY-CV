@@ -41,7 +41,7 @@ jobs:
         run: echo "TAG_NAME=${GITHUB_REF_NAME}" >> "$GITHUB_ENV"
         
       - name: Change PDF Name
-        run: mv main.pdf "HJY_CV_${{TAG_NAME}}.pdf"
+        run: mv main.pdf "HJY_CV_${GITHUB_REF_NAME}.pdf"
 
       - name: ls dir content
         run: ls
