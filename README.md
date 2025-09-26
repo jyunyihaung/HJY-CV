@@ -25,5 +25,5 @@ pdflatex main.tex
 
 👤 **Jyun-Yi Huang**
 
-//* LinkedIn: [@Jyun-Yi Huang](https://www.linkedin.com/in/arasgungore)
-//* GitHub: [@arasgungore](https://github.com/arasgungore)
+<!-- * LinkedIn: [@Jyun-Yi Huang](https://www.linkedin.com/in/arasgungore)-->
+<!-- * GitHub: [@arasgungore](https://github.com/arasgungore)-->
