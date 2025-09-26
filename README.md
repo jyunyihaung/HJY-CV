@@ -1,8 +1,6 @@
-# arasgungore-CV
+# Jyun-Yi Huang - CV
 
 My curriculum vitae (CV) written using LaTeX. In my CV, you may find my contact information, websites, education, experience, achievements, projects, and skills.
-
-Please find attached my [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing). 😜
 
 
 
@@ -25,7 +23,7 @@ pdflatex main.tex
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Jyun-Yi Huang**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+//* LinkedIn: [@Jyun-Yi Huang](https://www.linkedin.com/in/arasgungore)
+//* GitHub: [@arasgungore](https://github.com/arasgungore)
