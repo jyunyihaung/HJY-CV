@@ -6,7 +6,6 @@ name: CI Release Build
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
     tags:
       - '*-*'  # 當你 push 一個 tag 時觸發，例如 v1.0.0.0
 
